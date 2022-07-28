@@ -1,0 +1,11 @@
+1. Move the files to a directory.
+2. Run CMD and use cd to the directory location.
+for example: 'cd C:\Users\tal\Desktop\Java_Projects\NightClub\Src'.
+3. Complie the Src files: 'javac *.java'.
+4. Run the program: 'java NightClubMgmtApp'.
+5. Create a new customer of your choice. 
+the next time you'll use the system, you will be able to search
+for that customer's information.
+
+side note: you will get an error saying 'file does not exist' for
+the first time running the program.
